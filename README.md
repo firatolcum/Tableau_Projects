@@ -14,3 +14,5 @@ https://public.tableau.com/app/profile/f.rat3647/viz/TheGrowthOnInternetAdSpend2
 
 5- Nintendo Switch Sales Analysis : <br />
 https://public.tableau.com/app/profile/f.rat3647/viz/NintendoSwitch_16582390813720/Dashboard1
+
+© 2022 Fırat Olçum
